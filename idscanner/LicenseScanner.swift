@@ -7,9 +7,9 @@
 //
 
 import UIKit
-import AVFoundation
-import AVKit
 
-class LicenseScanner: NSObject {
-    
+class LicenseScanner {
+    class func parsePDF417Data(_ data:Data) {
+        
+    }
 }

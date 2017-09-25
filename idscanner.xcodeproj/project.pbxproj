@@ -18,6 +18,7 @@
 		D43CEA4D1F797BE500904EA2 /* states.json in Resources */ = {isa = PBXBuildFile; fileRef = D43CEA4C1F797BE500904EA2 /* states.json */; };
 		D43CEA4F1F798D5100904EA2 /* LicenseScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43CEA4E1F798D5100904EA2 /* LicenseScanner.swift */; };
 		D43CEA511F798DA400904EA2 /* PreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43CEA501F798DA400904EA2 /* PreviewView.swift */; };
+		D43CEA531F799FC000904EA2 /* License.swift in Sources */ = {isa = PBXBuildFile; fileRef = D43CEA521F799FC000904EA2 /* License.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		D43CEA4C1F797BE500904EA2 /* states.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = states.json; sourceTree = "<group>"; };
 		D43CEA4E1F798D5100904EA2 /* LicenseScanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LicenseScanner.swift; sourceTree = "<group>"; };
 		D43CEA501F798DA400904EA2 /* PreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewView.swift; sourceTree = "<group>"; };
+		D43CEA521F799FC000904EA2 /* License.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = License.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				D43CEA1E1F77543200904EA2 /* CameraViewController.swift */,
 				D43CEA201F77543200904EA2 /* Main.storyboard */,
 				D43CEA4A1F797AF000904EA2 /* State.swift */,
+				D43CEA521F799FC000904EA2 /* License.swift */,
 				D43CEA4C1F797BE500904EA2 /* states.json */,
 				D43CEA231F77543200904EA2 /* Assets.xcassets */,
 				D43CEA251F77543200904EA2 /* LaunchScreen.storyboard */,
@@ -277,6 +280,7 @@
 				D43CEA1F1F77543200904EA2 /* CameraViewController.swift in Sources */,
 				D43CEA1D1F77543200904EA2 /* AppDelegate.swift in Sources */,
 				D43CEA4B1F797AF000904EA2 /* State.swift in Sources */,
+				D43CEA531F799FC000904EA2 /* License.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
